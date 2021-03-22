@@ -37,7 +37,8 @@ public:
 			n = n & (n - 1);
 			res++;
 		}
-		return  10;
+		cout << "hello world" << endl;
+		cout << "C++" << endl;
 		return res;
 	}
 };
