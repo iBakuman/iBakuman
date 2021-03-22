@@ -41,6 +41,7 @@ public:
 		cout << "C++" << endl;
 		cout << "changes 1" << endl;
 		cout << "changes 3" << endl;
+		cout << "changes 4 in hot_fix" << endl;
 		return res;
 	}
 };
