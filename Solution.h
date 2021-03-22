@@ -40,6 +40,7 @@ public:
 		cout << "hello world" << endl;
 		cout << "C++" << endl;
 		cout << "changes 1" << endl;
+		cout << "changes 3" << endl;
 		return res;
 	}
 };
